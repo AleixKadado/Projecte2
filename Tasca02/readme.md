@@ -1,4 +1,4 @@
-# 🔌 Tasca 2 – Selecció d’un SAI per a una empresa client
+# Tasca 2 – Selecció d’un SAI per a una empresa client
 
 ## Descripció
 L’empresa **TecnoGestió S.L.**, dedicada a la gestió documental i assessorament informàtic, disposa d’un petit despatx amb **4 ordinadors de sobretaula**, una **impressores multifunció** i un **router d’accés a Internet**.  
